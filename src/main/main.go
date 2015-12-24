@@ -142,5 +142,5 @@ func (p Person) String() string {
 
 func makeChinese() {
 
-	fmt.Println()
+	fmt.Println("汉字处理")
 }
